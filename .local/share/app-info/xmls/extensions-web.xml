@@ -368,7 +368,7 @@
     <id>BingWallpaper_ineffable-gmail.com</id>
     <name>Bing Wallpaper</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Lightweight GNOME shell extension to set your wallpaper once per day to today&apos;s Microsoft Bing image of the day (the image you see when you visit Bing.com).</p><p> *Disclaimer*: this extension is unofficial and not affiliated with Bing or Microsoft in any way. Images are protected by copyright and are licensed only for use as wallpapers.</p><p>This extension is based extensively on the NASA APOD extension by Elinvention (https://github.com/Elinvention) and inspired by Bing Desktop Wallpaper Changer by Utkarsh Gupta (https://github.com/UtkarshGpta).</p><p>Features: * Fetches the Bing wallpaper of the day and sets as both lock screen and desktop wallpaper (these are both user selectable) * Optionally force a specific region (i.e. locale) * Automatically selects the highest resolution (and most appropriate wallpaper) in multiple monitor setups * Optionally clean up Wallpaper directory after between 1 and 7 days (delete oldest first) * Only attempts to download wallpapers when they have been updated * Doesn&apos;t poll continuously - only once per day and on startup (schedules a refresh when Bing is due to update) * English (en), German (de), Dutch (nl), Italian (it), Polish (pl), Chinese (zh_CN), French (fr_FR), Portuguese (pt, pt_BR), Russian (ru_RU), Spanish (es), Korean (ko, ko_KR, ko_KP), Indonesian (id), Catalan (ca), Norwegian Bokmål (nb) &amp; Nynorsk (ni), Swedish (sv) and Arabic (ar) - a HUGE thanks to the translators</p><p>Please report bugs to the GitHub page below:</p></description>
+    <description><p>Lightweight GNOME shell extension to set your wallpaper once per day to today&apos;s Microsoft Bing image of the day (the image you see when you visit Bing.com).</p><p> *Disclaimer*: this extension is unofficial and not affiliated with Bing or Microsoft in any way. Images are protected by copyright and are licensed only for use as wallpapers.</p><p>This extension is based extensively on the NASA APOD extension by Elinvention (https://github.com/Elinvention) and inspired by Bing Desktop Wallpaper Changer by Utkarsh Gupta (https://github.com/UtkarshGpta).</p><p>Features: * Fetches the Bing wallpaper of the day and sets as both lock screen and desktop wallpaper (these are both user selectable) * Optionally force a specific region (i.e. locale) * Automatically selects the highest resolution (and most appropriate wallpaper) in multiple monitor setups * Optionally clean up Wallpaper directory after between 1 and 7 days (delete oldest first) * Only attempts to download wallpapers when they have been updated * Doesn&apos;t poll continuously - only once per day and on startup (schedules a refresh when Bing is due to update) * English (en), German (de), Dutch (nl), Italian (it), Polish (pl), Chinese (zh_CN), French (fr_FR), Portuguese (pt, pt_BR), Russian (ru_RU), Spanish (es), Korean (ko, ko_KR, ko_KP), Indonesian (id), Catalan (ca), Norwegian Bokmål (nb) &amp; Nynorsk (ni), Swedish (sv), Arabic (ar) and Hungarian (hu) - a HUGE thanks to the translators</p><p>Please report bugs to the GitHub page below:</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -378,11 +378,11 @@
     <url type="homepage">https://extensions.gnome.org/extension/1262/bing-wallpaper-changer/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1262_pHSrPhV.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1262_9e0hBhc.jpg</image>
       </screenshot>
     </screenshots>
     <releases>
-      <release version="29"/>
+      <release version="30"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -1109,7 +1109,7 @@
     <id>GoogleEarthWallpaper_neffo.github.com</id>
     <name>Google Earth Wallpaper</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Lightweight GNOME shell extension to set your wallpaper to a random photo from the curated Google Earth collection (1500 photos).</p><p>*Disclaimer*: this extension is unofficial and not affiliated with Google in any way. Images are protected by copyright and are licensed only for use as wallpapers.</p><p>See also my other extension, Bing Wallpaper Changer (https://github.com/neffo/bing-wallpaper-gnome-extension) which was itself based on the NASA APOD extension by Elinvention (https://github.com/Elinvention).</p><p>Features: * Fetches a random Google Earth wallpaper and sets as both lock screen and desktop wallpaper * User selectable refresh intervals (default is once per day) * Optional: keep images or clean up after (later is default) * View location on Google Maps, Bing Maps, Gnome Maps, OpenStreetMaps (in v2+) * In-extension map view (in v3+ - note this needs WebKitGTK+ GIR packages installed to function - gir1.2-webkit-3.0 in Ubuntu) *  German, Dutch and Chinese translations</p><p>Please report any bugs or suggestions to extension GitHub page below.</p></description>
+    <description><p>Lightweight GNOME shell extension to set your wallpaper to a random photo from the curated Google Earth collection (1500 photos).</p><p>*Disclaimer*: this extension is unofficial and not affiliated with Google in any way. Images are protected by copyright and are licensed only for use as wallpapers.</p><p>See also my other extension, Bing Wallpaper Changer (https://github.com/neffo/bing-wallpaper-gnome-extension) which was itself based on the NASA APOD extension by Elinvention (https://github.com/Elinvention).</p><p>Features: * Fetches a random Google Earth wallpaper and sets as both lock screen and desktop wallpaper * User selectable refresh intervals (default is once per day) * Optional: keep images or clean up after (later is default) * View location on Google Maps, Bing Maps, Gnome Maps, OpenStreetMaps * In-extension map view *  German, Dutch and Chinese translations</p><p>Please report any bugs or suggestions to extension GitHub page below.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -1123,7 +1123,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="11"/>
+      <release version="12"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -3504,7 +3504,7 @@
     <id>Vitals_CoreCoding.com</id>
     <name>Vitals</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A glimpse into your computer&apos;s temperature, voltage, fan speed, memory usage, processor load, system resources, network speed and storage stats. This is a one stop shop to monitor all of your vital sensors. Uses asynchronous polling to provide a smooth user experience. Feature requests or bugs? Please use GitHub.</p><p>Broken after upgrade? See https://github.com/corecoding/Vitals/wiki/Broken-after-upgrade</p></description>
+    <description><p>A glimpse into your computer&apos;s temperature, voltage, fan speed, memory usage, processor load, system resources, network speed and storage stats. This is a one stop shop to monitor all of your vital sensors. Uses asynchronous polling to provide a smooth user experience. Feature requests or bugs? Please use GitHub.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -7276,7 +7276,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="23"/>
+      <release version="25"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -8019,7 +8019,7 @@
     <id>drop-down-terminal-x_bigbn.pro</id>
     <name>Drop Down Terminal X</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A GNOME Shell drop down terminal with extra feautures.</p><p>▒█▀▀▄ ▒█▀▀▄ ▀▀█▀▀ ▀▄▒▄▀  ▒█░▒█ ▒█░▒█ ░▒█░░ ░▒█░░  ▒█▄▄▀ ▒█▄▄▀ ░▒█░░ ▄▀▒▀▄</p><p>Includes: tabs, multi-monitor, font scaling support; [Focus out] / [Escape pressed] events for hide.</p><p>October 2020 updates: - Gnome 3.38 support   May 2020 updates: - Color schemes </p><p>March 2020 updates: - Gnome 3.36 support - &quot;Open in current directory&quot; option</p><p>February 2020 updates: - Multi monitor enhancements - Workarea of current monitor for maximized mode</p><p>January 2020 updates: - Fixed fullscreen window priority - Keybinding to maximize terminal window; - Keybinding to manually focus terminal window; - Scrolling the volume indicator not affecting terminal;</p><p>November 2019 updates: - Added support for the ~/.ssh/config file. Now you can get quick access to any your ssh host in one click; - Added support for ~/.config/drop-down-terminal-x/shortcuts file Now you can define any action that will become available in a special drop-down list for quick launch. This small improvement can improve your productivity See file format at https://github.com/bigbn/drop-down-terminal-x - Added option to prevent terminal jumps down to the bottom on long command output</p><p>Special thanks to: - Osman Alperen Elhan (https://github.com/oae) - Balder Claassen (https://github.com/balderclaassen) - Adrien Pyke (https://github.com/kufii) - Alan J Carvajal (https://github.com/ajcarvajal) - Massimo Mund (https://github.com/masmu) - Jakub Żywiec (https://github.com/jakubzet) - Mattias Eriksson (https://github.com/snaggen) - Henry78 (https://github.com/Henry78) - Maxim Toropov (https://github.com/MaxMaxoff) for active contribution.</p><p>Based on original extension &quot;gs-extensions-drop-down-terminal&quot; from Stéphane Démurget (https://github.com/zzrough)</p></description>
+    <description><p>THIS EXTENSION IS NO LONGER SUPPORTED.</p><p>If you are looking for an alternative please look at that https://extensions.gnome.org/extension/3780/ddterm  awesome extension.</p><p>A GNOME Shell drop down terminal with extra feautures.   Special thanks to: - Osman Alperen Elhan (https://github.com/oae) - Balder Claassen (https://github.com/balderclaassen) - Adrien Pyke (https://github.com/kufii) - Alan J Carvajal (https://github.com/ajcarvajal) - Massimo Mund (https://github.com/masmu) - Jakub Żywiec (https://github.com/jakubzet) - Mattias Eriksson (https://github.com/snaggen) - Henry78 (https://github.com/Henry78) - Maxim Toropov (https://github.com/MaxMaxoff) for active contribution.</p><p>Based on original extension &quot;gs-extensions-drop-down-terminal&quot; from Stéphane Démurget (https://github.com/zzrough)</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -9519,6 +9519,9 @@
     </categories>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">https://extensions.gnome.org/extension/1281/fuzzy-clock/</url>
+    <releases>
+      <release version="3"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -14175,7 +14178,7 @@
     <id>new-mail-indicator_fthx</id>
     <name>New Mail Indicator</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>An icon beside the date in the topbar to show if there are unread emails when running your default email client.</p><p> It checks the notifications in the message tray related to a new mail, no extra configuration needed, very light extension. Click on the icon does toggle your email client window.*** Do not disable the notifications of your default email client! *** It is not a standalone mail checker, you need your email client to be running. *** Please check that the xdg-utils package is installed.</p><p> Email clients supported at the moment are: Thunderbird, Evolution, Geary, Mailspring. Please ask to add the client, including special packaging (snap/flatpak), that you need. If you report an error, please provide at least the distribution and the email client you use through the github link.</p><p> For persistent notifications only, see: https://extensions.gnome.org/extension/3951/persistent-email-notifications .</p></description>
+    <description><p>An icon beside the date in the topbar to show if there are unread emails when running your default email client.</p><p> It checks the notifications in the message tray related to a new mail, no extra configuration needed, very light extension. Click on the icon does toggle your email client window.*** Do not disable the notifications of your default email client! *** It is not a standalone mail checker, you need your email client to be running. *** Please check that the xdg-utils package is installed.</p><p> Email clients verified at the moment are: Thunderbird, Evolution, Geary, Mailspring. Please ask to add the client, including special packaging (snap/flatpak), that you need. If you report an error, please provide at least the distribution and the email client you use through the GitHub link.</p><p> For persistent notifications only, see: https://extensions.gnome.org/extension/3951/persistent-email-notifications .</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -17567,7 +17570,7 @@
     <id>sensory-perception_HarlemSquirrel.github.io</id>
     <name>Sensory Perception</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Shows CPU temperature, disk temperature, video card temperature, voltage and fan RPM (forked from xtranophilist/gnome-shell-extension-sensors)</p></description>
+    <description><p>Requires lm-sensors (or lm_sensors). Shows CPU temperature, disk temperature, video card temperature, voltage and fan RPM.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -18040,7 +18043,7 @@
     <id>showtime_xenlism.github.io</id>
     <name>Showtime  - Desktop Widget</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Date and Clock Desktop Widget</p><p>Move Widget by Press Super + Drag Widget https://github.com/xenlism/showtime</p></description>
+    <description><p>Date &amp;amp;amp;amp;amp;amp;amp;amp; Clock Desktop Widget</p><p>Move Widget by Press Super + Drag Widget https://github.com/xenlism/showtime</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -20201,7 +20204,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="7"/>
+      <release version="8"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -21693,7 +21696,7 @@
     <id>windowIsReady_Remover_nunofarruca_gmail.com</id>
     <name>Window Is Ready - Notification Remover</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Removes window is ready Notification. Just that! Doesn&apos;t bring that window into focus.</p><p>NOTE: Updating extension to v10 can generate an error, but it&apos;s updated successfully! Just logout/login and the error goes away. Investigation is underway to understand why it is happening...</p></description>
+    <description><p>Removes window is ready Notification</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>

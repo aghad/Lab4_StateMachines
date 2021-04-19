@@ -1,8 +1,10 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
+    <application id="update-manager.desktop" open-window-count="0" score="18" last-seen="1618798102"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="2" last-seen="1618798122"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="3519" last-seen="1618798187"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="2" last-seen="1617860561"/>
-    <application id="update-manager.desktop" open-window-count="1" score="0" last-seen="1617860565"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="1" last-seen="1618553259"/>
   </context>
 </application-state>
